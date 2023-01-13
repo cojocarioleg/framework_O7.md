@@ -1,0 +1,30 @@
+[2023-01-10 20:16:57] Текст ошибки: Call to a member function find() on null | Файл: D:\OSPanel\domains\localhost\framework_O7.md\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1025
+=================
+[2023-01-10 20:20:45] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newo7.names' doesn't exist | Файл: D:\OSPanel\domains\localhost\framework_O7.md\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-01-10 20:21:05] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 3
+=================
+[2023-01-10 20:21:33] Текст ошибки: Array to string conversion | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 3
+=================
+[2023-01-10 20:23:12] Текст ошибки: Array to string conversion | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 3
+=================
+[2023-01-10 20:23:23] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 3
+=================
+[2023-01-10 20:24:02] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 3
+=================
+[2023-01-10 20:24:13] Текст ошибки: Undefined variable $test | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 3
+=================
+[2023-01-10 20:24:37] Текст ошибки: Array to string conversion | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 3
+=================
+[2023-01-10 20:29:06] Текст ошибки: Array to string conversion | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 4
+=================
+[2023-01-10 20:29:09] Текст ошибки: Array to string conversion | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 4
+=================
+[2023-01-10 20:29:28] Текст ошибки: Array to string conversion | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 4
+=================
+[2023-01-10 20:29:31] Текст ошибки: Array to string conversion | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\Main\index.php | Строка: 4
+=================
+[2023-01-11 00:40:09] Текст ошибки: Call to undefined method wfm\View::getDoLogs() | Файл: D:\OSPanel\domains\localhost\framework_O7.md\app\views\layouts\iShop.php | Строка: 15
+=================
+[2023-01-11 07:23:22] Текст ошибки: Call to undefined method RedBeanPHP\Driver\RPDO::getLoger() | Файл: D:\OSPanel\domains\localhost\framework_O7.md\vendor\wfm\View.php | Строка: 56
+=================
